@@ -5,6 +5,18 @@
 ## Table of Contents
 - [Applications](#applications)
 	- [Audio](#audio)
+	- [Chat Clients](#chat-clients)
+	- [Customization](#customization)
+	- [Developer Tools](#developer-tools)
+	- [Email Utilities](#email-utilities)
+	- [Graphics](#graphics)
+	- [Productivity](#productivity)
+	- [Social](#social)
+	- [Sharing Files](#sharing-files)
+	- [Utilities](#utilities)
+	- [Theming](#theming)
+- [Contribute](#contribute)
+- [License](#license)
 
 
 ## Applications
@@ -33,9 +45,9 @@
 - [Agenda](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
-- [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
-- [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS 
 - [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme
+- [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
+- [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS
 - [Writer](https://launchpad.net/writer) - An elementary word processor
 
@@ -47,10 +59,10 @@
 
 ### Utilities
 - [Calculator](https://launchpad.net/elementarycalculator) - A simple Calculator for elementary OS
-- [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person
-- [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
+- [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person
+- [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects
 - [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
 
 ### Theming
@@ -61,3 +73,6 @@
 Contributions are most welcome, please adhere to the [contribution guidelines](.github/contributing.md).
 
 **[⬆ back to top](#table-of-contents)**
+
+## License
+[The MIT License (MIT)](https://opensource.org/licenses/MIT)
