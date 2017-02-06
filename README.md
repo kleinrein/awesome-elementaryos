@@ -1,6 +1,6 @@
 # Awesome elementary OS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome applications, softwares, tools and shiny things for elementary OS.
+> A curated list of awesome applications, tools and shiny things for elementary OS.
 
 ## Table of Contents
 - [Applications](#applications)
@@ -15,6 +15,8 @@
 	- [Sharing Files](#sharing-files)
 	- [Utilities](#utilities)
 	- [Theming](#theming)
+- [Official Resources](#official-resources)
+- [Community](#community)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -67,6 +69,18 @@
 
 ### Theming
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
+
+## Official Resources
+- [Official Site](https://elementary.io/)
+- [Official Medium](https://medium.com/elementaryos)
+- [Official Twitter](https://twitter.com/elementary)
+- [Official Facebook](https://www.facebook.com/elementaryos)
+
+## Community
+- [#elementaryos](https://twitter.com/hashtag/elementaryos) - hashtag on Twitter
+- [elementary OS on Google+](https://plus.google.com/+elementary)
+- [elementary OS on stackexchange](https://elementaryos.stackexchange.com/)
+- [elementary OS subreddit](https://www.reddit.com/r/elementaryos/)
 
 ## Contribute
 
