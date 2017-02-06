@@ -84,7 +84,7 @@
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](.github/contributing.md).
+Contributions are most welcome.
 
 **[⬆ back to top](#table-of-contents)**
 
