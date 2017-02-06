@@ -38,7 +38,7 @@
 
 ### Email Utilities
 - [elementary-nylas](https://github.com/edipox/elementary-nylas) - Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS 
-- [elementary Thunderbird](https://github.com/alxlit/elementary-thunderbird) - Thunderbird for elementaryOS 
+- [elementary Thunderbird](https://github.com/alxlit/elementary-thunderbird) - Thunderbird for elementary OS 
 
 ### Graphics
 - [Foto](https://launchpad.net/foto) - Foto is a very simple image viewer and album manager written in Vala using Gtk3, Clutter, Cairo and Granite
