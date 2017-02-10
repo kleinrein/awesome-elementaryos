@@ -29,8 +29,8 @@
 ## Applications
 
 ### Audio
-- [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
+- [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop
 
 ### Chat Clients
 - [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS 
@@ -83,17 +83,17 @@
 
 ## Aplication Development
 ### Official
-- [elementary Developer Guide](https://elementary.io/docs/code/getting-started#getting-started)
 - [Code Style](https://elementary.io/docs/code/reference#reference)
+- [elementary Developer Guide](https://elementary.io/docs/code/getting-started#getting-started)
 - [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines#human-interface-guidelines)
 
 ### Third party
-- [elementary OS devbook](https://github.com/aberba/elementaryOS-devbook) - A guide to design and build your app for elementary OS
 - [Create an elementary OS app with GTK & Vala](https://www.youtube.com/watch?v=vxvZGf69nko)
+- [elementary OS devbook](https://github.com/aberba/elementaryOS-devbook) - A guide to design and build your app for elementary OS
 
 ### Vala
-- [Valadoc](https://valadoc.org/) - Official Vala documentation
 - [The Vala tutorial](https://chebizarro.gitbooks.io/the-vala-tutorial/content/)
+- [Valadoc](https://valadoc.org/) - Official Vala documentation
 - [Vala tutorial](https://wiki.gnome.org/Projects/Vala/Tutorial)
 - [Vala for C# Programmers](https://wiki.gnome.org/Projects/Vala/ValaForCSharpProgrammers)
 - [Vala for Java Programmers](https://wiki.gnome.org/Projects/Vala/ValaForJavaProgrammers)
