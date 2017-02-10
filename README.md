@@ -11,10 +11,15 @@
 	- [Email Utilities](#email-utilities)
 	- [Graphics](#graphics)
 	- [Productivity](#productivity)
+	- [Others](#others)
 	- [Social](#social)
 	- [Sharing Files](#sharing-files)
 	- [Utilities](#utilities)
 	- [Theming](#theming)
+- [Application Development](#application-development)
+	- [Official](#official)
+	- [Third party](#third-party)
+	- [Vala](#vala)
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Contribute](#contribute)
@@ -24,6 +29,7 @@
 ## Applications
 
 ### Audio
+- [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
 
 ### Chat Clients
@@ -50,8 +56,13 @@
 - [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS
 - [Writer](https://launchpad.net/writer) - An elementary word processor
+
+### Others
+- [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
+- [Webby](https://launchpad.net/webby-browser) - Web app browser
 
 ### Social
 - [Birdie](https://github.com/needle-and-thread/birdie) - Birdie is a beautiful & fast Twitter client designed for elementary OS
@@ -69,6 +80,23 @@
 
 ### Theming
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
+
+## Aplication Development
+### Official
+- [elementary Developer Guide](https://elementary.io/docs/code/getting-started#getting-started)
+- [Code Style](https://elementary.io/docs/code/reference#reference)
+- [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines#human-interface-guidelines)
+
+### Third party
+- [elementary OS devbook](https://github.com/aberba/elementaryOS-devbook) - A guide to design and build your app for elementary OS
+- [Create an elementary OS app with GTK & Vala](https://www.youtube.com/watch?v=vxvZGf69nko)
+
+### Vala
+- [Valadoc](https://valadoc.org/) - Official Vala documentation
+- [The Vala tutorial](https://chebizarro.gitbooks.io/the-vala-tutorial/content/)
+- [Vala tutorial](https://wiki.gnome.org/Projects/Vala/Tutorial)
+- [Vala for C# Programmers](https://wiki.gnome.org/Projects/Vala/ValaForCSharpProgrammers)
+- [Vala for Java Programmers](https://wiki.gnome.org/Projects/Vala/ValaForJavaProgrammers)
 
 ## Official Resources
 - [Official Site](https://elementary.io/)
