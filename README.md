@@ -61,6 +61,7 @@
 - [Writer](https://launchpad.net/writer) - An elementary word processor
 
 ### Others
+- [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
 - [Webby](https://launchpad.net/webby-browser) - Web app browser
 
