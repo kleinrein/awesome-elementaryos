@@ -110,6 +110,7 @@
 - [elementary OS on Google+](https://plus.google.com/+elementary)
 - [elementary OS on stackexchange](https://elementaryos.stackexchange.com/)
 - [elementary OS subreddit](https://www.reddit.com/r/elementaryos/)
+- [elementary OS forum](https://elementaryforums.com/index.php)
 
 ## Contribute
 
