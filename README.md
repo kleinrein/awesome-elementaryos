@@ -22,6 +22,7 @@
 	- [Vala](#vala)
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [Configuration guides](#installation-guides)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -111,6 +112,10 @@
 - [elementary OS on stackexchange](https://elementaryos.stackexchange.com/)
 - [elementary OS subreddit](https://www.reddit.com/r/elementaryos/)
 - [elementary OS forum](https://elementaryforums.com/index.php)
+
+## Configuration guides
+- [elementary-os-first-steps](https://github.com/tonietto/Elementary-OS-First-Steps) - First steps for configuring a fresh installed eOS 
+- [Ultimate-elementary-os](https://github.com/erikdubois/Ultimate-Elementary-Os) - Easy installation of software after clean install 
 
 ## Contribute
 
