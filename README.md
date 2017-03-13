@@ -22,7 +22,7 @@
 	- [Vala](#vala)
 - [Official Resources](#official-resources)
 - [Community](#community)
-- [Configuration guides](#installation-guides)
+- [Configuration guides](#configuration-guides)
 - [Contribute](#contribute)
 - [License](#license)
 
