@@ -112,6 +112,7 @@
 - [elementary OS on stackexchange](https://elementaryos.stackexchange.com/)
 - [elementary OS subreddit](https://www.reddit.com/r/elementaryos/)
 - [elementary OS forum](https://elementaryforums.com/index.php)
+- [elementary OS on slack](https://elementarycommunity.herokuapp.com/) - Slack community
 
 ## Configuration guides
 - [elementary-os-first-steps](https://github.com/tonietto/Elementary-OS-First-Steps) - First steps for configuring a fresh installed eOS 
