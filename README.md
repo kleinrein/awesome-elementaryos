@@ -82,6 +82,7 @@
 
 ### Theming
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
+- [elementary X](https://github.com/surajmandalcell/elementary-x) - Original elementary theme with some tweaks and OS X window controls 
 
 ## Aplication Development
 ### Official
