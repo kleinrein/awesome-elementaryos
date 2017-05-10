@@ -1,4 +1,5 @@
 # Awesome elementary OS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub stars](https://img.shields.io/github/stars/kleinrein/awesome-elementaryos.svg?style=social&label=Star)](https://github.com/kleinrein/awesome-elementaryos)
 
 > A curated list of awesome applications, tools and shiny things for elementary OS.
 
@@ -58,6 +59,7 @@
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
+- [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS
 - [Writer](https://launchpad.net/writer) - An elementary word processor
 
