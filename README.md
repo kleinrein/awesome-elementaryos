@@ -75,6 +75,7 @@
 ### Utilities
 - [Calculator](https://launchpad.net/elementarycalculator) - A simple Calculator for elementary OS
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
+- [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS
 - [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
 - [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects
