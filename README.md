@@ -3,6 +3,9 @@
 
 > A curated list of awesome applications, tools and shiny things for elementary OS.
 
+### Explanation
+:white_check_mark: means that it can be found in **AppCenter**
+
 ## Table of Contents
 - [Applications](#applications)
 	- [Audio](#audio)
@@ -32,7 +35,7 @@
 
 ### Audio
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
-- [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop
+- [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop :white_check_mark:
 
 ### Chat Clients
 - [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS 
@@ -52,20 +55,22 @@
 - [Foto](https://launchpad.net/foto) - Foto is a very simple image viewer and album manager written in Vala using Gtk3, Clutter, Cairo and Granite
 
 ### Productivity
-- [Agenda](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager
+- [Agenda](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager :white_check_mark:
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
-- [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme
+- [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme :white_check_mark:
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
-- [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS
+- [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS :white_check_mark:
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
-- [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS
+- [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS :white_check_mark:
+- [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing :white_check_mark:
 - [Writer](https://launchpad.net/writer) - An elementary word processor
 
 ### Others
-- [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader
+- [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader :white_check_mark:
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
+- [Wallpaperize](https://github.com/Philip-Scott/wallpaperize) - Beautify your oddly-sized wallpapers :white_check_mark:
 - [Webby](https://launchpad.net/webby-browser) - Web app browser
 
 ### Social
@@ -77,11 +82,12 @@
 ### Utilities
 - [Calculator](https://launchpad.net/elementarycalculator) - A simple Calculator for elementary OS
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
-- [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS
+- [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS :white_check_mark:
 - [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
-- [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person
-- [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects
+- [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person :white_check_mark:
+- [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects :white_check_mark:
 - [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
+- [Translator](https://github.com/RapidFingers/Translator) - Translator for elementary OS :white_check_mark:
 
 ### Theming
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
