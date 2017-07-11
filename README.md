@@ -46,6 +46,7 @@
 
 ### Developer Tools
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
+- [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential :white_check_mark:
 
 ### Email Utilities
 - [elementary-nylas](https://github.com/edipox/elementary-nylas) - Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS 
@@ -70,6 +71,7 @@
 ### Others
 - [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader :white_check_mark:
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
+- [Torrential](https://github.com/davidmhewitt/torrential) - Download torrents in style :white_check_mark:
 - [Wallpaperize](https://github.com/Philip-Scott/wallpaperize) - Beautify your oddly-sized wallpapers :white_check_mark:
 - [Webby](https://launchpad.net/webby-browser) - Web app browser
 
