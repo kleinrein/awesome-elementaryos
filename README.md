@@ -48,6 +48,10 @@
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential :white_check_mark:
 
+### Design Tools
+- [Color Picker](https://github.com/RonnyDo/ColorPicker) - The most intiutive Color Picker to speed up your workflow :white_check_mark:
+- [Swatches](https://github.com/keyilan/swatches) - Colour variation tool :white_check_mark:
+
 ### Email Utilities
 - [elementary-nylas](https://github.com/edipox/elementary-nylas) - Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS 
 - [elementary Thunderbird](https://github.com/alxlit/elementary-thunderbird) - Thunderbird for elementary OS 
@@ -83,11 +87,13 @@
 
 ### Utilities
 - [Calculator](https://launchpad.net/elementarycalculator) - A simple Calculator for elementary OS
+- [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet :white_check_mark:
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS :white_check_mark:
 - [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
 - [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person :white_check_mark:
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects :white_check_mark:
+- [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle :white_check_mark:
 - [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
 - [Translator](https://github.com/RapidFingers/Translator) - Translator for elementary OS :white_check_mark:
 
