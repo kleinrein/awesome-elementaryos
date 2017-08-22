@@ -9,6 +9,7 @@
 ## Table of Contents
 - [Applications](#applications)
 	- [Audio](#audio)
+	- [Accessories](#accessories)
 	- [Chat Clients](#chat-clients)
 	- [Customization](#customization)
 	- [Developer Tools](#developer-tools)
@@ -35,7 +36,14 @@
 
 ### Audio
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
+- [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
+- [Tranqil](https://github.com/nick92/tranqil) - Relax to soothing sounds of nature
 - [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop :white_check_mark:
+
+### Accessories
+- [Clipped](https://github.com/davidmhewitt/clipped) - Manage your clipboard with ease
+- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources
+- [Webpin](https://github.com/artemanufrij/webpin) - A simple app to pin websites on the desktop
 
 ### Chat Clients
 - [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS 
@@ -90,7 +98,6 @@
 - [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet :white_check_mark:
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS :white_check_mark:
-- [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
 - [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person :white_check_mark:
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects :white_check_mark:
 - [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle :white_check_mark:
