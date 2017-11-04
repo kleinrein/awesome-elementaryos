@@ -42,6 +42,7 @@
 
 ### Accessories
 - [Clipped](https://github.com/davidmhewitt/clipped) - Manage your clipboard with ease
+- [Lottery](https://github.com/bartzaalberg/lottery) - Determine who will be the winner :white_check_mark:
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources
 - [Webpin](https://github.com/artemanufrij/webpin) - A simple app to pin websites on the desktop
 
@@ -54,6 +55,7 @@
 
 ### Developer Tools
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
+- [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily :white_check_mark:
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential :white_check_mark:
 
 ### Design Tools
@@ -66,6 +68,7 @@
 
 ### Graphics
 - [Foto](https://launchpad.net/foto) - Foto is a very simple image viewer and album manager written in Vala using Gtk3, Clutter, Cairo and Granite
+- [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) - A simple image optimizer for elementary OS :white_check_mark:
 
 ### Productivity
 - [Agenda](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager :white_check_mark:
@@ -76,6 +79,7 @@
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS :white_check_mark:
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
+- [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary :white_check_mark:
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS :white_check_mark:
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing :white_check_mark:
 - [Writer](https://launchpad.net/writer) - An elementary word processor
