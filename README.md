@@ -35,23 +35,27 @@
 ## Applications
 
 ### Audio
+- [Cozy](https://github.com/geigi/cozy) - A modern audio book player :white_check_mark:
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
 - [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
 - [Tranqil](https://github.com/nick92/tranqil) - Relax to soothing sounds of nature
 - [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop :white_check_mark:
 
 ### Accessories
+- [Cipher](https://github.com/arshubham/cipher) - Encode and decode text :white_check_mark:
 - [Clipped](https://github.com/davidmhewitt/clipped) - Manage your clipboard with ease
+- [Desktop Folder](https://github.com/spheras/desktopfolder) - Bring your desktop back to life :white_check_mark:
 - [Lottery](https://github.com/bartzaalberg/lottery) - Determine who will be the winner :white_check_mark:
-- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources
-- [Webpin](https://github.com/artemanufrij/webpin) - A simple app to pin websites on the desktop
+- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources :white_check_mark:
+- [Webpin](https://github.com/artemanufrij/webpin) - A simple app to pin websites on the desktop :white_check_mark:
 
 ### Chat Clients
-- [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS 
+- [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS
 
 ### Customization
+- [AppEditor](https://github.com/donadigo/appeditor) - Edit application menu :white_check_mark:
 - [Configurator](https://launchpad.net/configurator) - A stylish dconf editor for elementary OS
-- [elementary tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customisation tool 
+- [elementary tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customisation tool
 
 ### Developer Tools
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
