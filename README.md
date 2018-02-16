@@ -102,7 +102,6 @@
 - [Dropbox for elementary OS](https://github.com/zant95/elementary-dropbox) 
 
 ### Utilities
-- [Calculator](https://launchpad.net/elementarycalculator) - A simple Calculator for elementary OS
 - [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet :white_check_mark:
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS :white_check_mark:
