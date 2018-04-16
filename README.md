@@ -37,8 +37,9 @@
 ### Audio
 - [Cozy](https://github.com/geigi/cozy) - A modern audio book player :white_check_mark:
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
-- [Metronome](https://launchpad.net/metronome) - An very light and neat Click App for elementary OS
-- [Tranqil](https://github.com/nick92/tranqil) - Relax to soothing sounds of nature
+- [Metronome](https://launchpad.net/metronome) - A simple click :white_check_mark:
+- [Melody](http://anufrij.org/melody/) - A music player for listening local music files, online radios and Audio CD's :white_check_mark:
+- [Tranqil](https://github.com/nick92/tranqil) - Relax to soothing sounds of nature :white_check_mark:
 - [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop :white_check_mark:
 
 ### Accessories
@@ -49,7 +50,7 @@
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources :white_check_mark:
 - [Webpin](https://github.com/artemanufrij/webpin) - A simple app to pin websites on the desktop :white_check_mark:
 
-### Chat Clients
+### Chat
 - [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS
 
 ### Customization
@@ -57,20 +58,25 @@
 - [Configurator](https://launchpad.net/configurator) - A stylish dconf editor for elementary OS
 - [elementary tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customisation tool
 
-### Developer Tools
+### Developer
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily :white_check_mark:
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential :white_check_mark:
 
-### Design Tools
+### Design
 - [Color Picker](https://github.com/RonnyDo/ColorPicker) - The most intiutive Color Picker to speed up your workflow :white_check_mark:
 - [Swatches](https://github.com/keyilan/swatches) - Colour variation tool :white_check_mark:
 
-### Email Utilities
-- [elementary-nylas](https://github.com/edipox/elementary-nylas) - Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS 
-- [elementary Thunderbird](https://github.com/alxlit/elementary-thunderbird) - Thunderbird for elementary OS 
+### Email
+- [elementary-nylas](https://github.com/edipox/elementary-nylas) - Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS
+- [elementary Thunderbird](https://github.com/alxlit/elementary-thunderbird) - Thunderbird for elementary OS
+
+### Games
+- [Gnonograms](https://github.com/jeremypw/gnonograms) - Create and solve gnonogram puzzles :white_check_mark:
+- [Sudoku](https://github.com/parnold-x/sudoku) - The number that is alone :white_check_mark:
 
 ### Graphics
+- [Ciano](https://robertsanseries.github.io/ciano/) - A multimedia file converter :white_check_mark:
 - [Foto](https://launchpad.net/foto) - Foto is a very simple image viewer and album manager written in Vala using Gtk3, Clutter, Cairo and Granite
 - [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) - A simple image optimizer for elementary OS :white_check_mark:
 
@@ -84,6 +90,7 @@
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
 - [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary :white_check_mark:
+- [Pushy](https://github.com/harisvsulaiman/Pushy) - Pushbullet client :white_check_mark:
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS :white_check_mark:
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing :white_check_mark:
 - [Writer](https://launchpad.net/writer) - An elementary word processor
@@ -98,7 +105,7 @@
 ### Social
 - [Birdie](https://github.com/needle-and-thread/birdie) - Birdie is a beautiful & fast Twitter client designed for elementary OS
 
-### Sharing Files
+### Sharing
 - [Dropbox for elementary OS](https://github.com/zant95/elementary-dropbox) 
 
 ### Utilities
@@ -106,6 +113,8 @@
 - [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet :white_check_mark:
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS :white_check_mark:
+- [Lottery](https://github.com/bartzaalberg/lottery) - Who will be the winner? :white_check_mark:
+- [Meteo](https://github.com/bitseater/weather) - Know the forecast of the next hours and days with data and maps :white_check_mark:
 - [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person :white_check_mark:
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects :white_check_mark:
 - [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle :white_check_mark:
