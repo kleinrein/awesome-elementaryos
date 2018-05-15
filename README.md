@@ -4,7 +4,7 @@
 > A curated list of awesome applications, tools and shiny things for elementary OS.
 
 ### Explanation
-:white_check_mark: means that it can be found in **AppCenter**
+:white_check_mark: means that it can be found in **AppCenter**. _You can click on the icon to open it in AppCenter_
 
 ## Table of Contents
 - [Applications](#applications)
@@ -60,8 +60,12 @@
 - [elementary tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customisation tool
 
 ### Developer
+- [Alias](https://github.com/bartzaalberg/alias) - Simplify your commands [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.alias.desktop)
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
+- [Sequeler](https://github.com/Alecaddd/sequeler) - Friendly SQL Client [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
+- [Snaptastic](https://github.com/bartzaalberg/snaptastic) - A manager for snaps [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
+- [ValaCompiler](https://github.com/basjam/ValaCompiler/) - A simple GUI for valac [:white_check_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential [:white_check_mark:](https://appcenter.elementary.io/com.github.aleksandar-stefanovic.urmsimulator.desktop)
 
 ### Design
