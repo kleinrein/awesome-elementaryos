@@ -12,7 +12,7 @@
 	- [Accessories](#accessories)
 	- [Chat Clients](#chat-clients)
 	- [Customization](#customization)
-	- [Developer Tools](#developer-tools)
+	- [Development](#development)
 	- [Email Utilities](#email-utilities)
 	- [Graphics](#graphics)
 	- [Productivity](#productivity)
@@ -59,14 +59,16 @@
 - [Configurator](https://launchpad.net/configurator) - A stylish dconf editor for elementary OS
 - [elementary tweaks](https://github.com/elementary-tweaks/elementary-tweaks) - elementary OS customisation tool
 
-### Developer
+### Development
 - [Alias](https://github.com/bartzaalberg/alias) - Simplify your commands [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.alias.desktop)
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
+- [GraphUI](http://anufrij.org/) - Graph Visualization [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 - [Sequeler](https://github.com/Alecaddd/sequeler) - Friendly SQL Client [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 - [Snaptastic](https://github.com/bartzaalberg/snaptastic) - A manager for snaps [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
 - [ValaCompiler](https://github.com/basjam/ValaCompiler/) - A simple GUI for valac [:white_check_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential [:white_check_mark:](https://appcenter.elementary.io/com.github.aleksandar-stefanovic.urmsimulator.desktop)
+- [Web Watcher](https://github.com/kjlaw89/webwatcher) - Know when your websites are misbehaving [:white_check_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
 
 ### Design
 - [Color Picker](https://github.com/RonnyDo/ColorPicker) - The most intiutive Color Picker to speed up your workflow [:white_check_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
