@@ -13,6 +13,7 @@
 	- [Chat Clients](#chat-clients)
 	- [Customization](#customization)
 	- [Development](#development)
+	- [Design](#design)
 	- [Email Utilities](#email-utilities)
 	- [Graphics](#graphics)
 	- [Productivity](#productivity)
@@ -72,6 +73,7 @@
 
 ### Design
 - [Color Picker](https://github.com/RonnyDo/ColorPicker) - The most intiutive Color Picker to speed up your workflow [:white_check_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
+- [Lookbook](https://github.com/danrabbit/lookbook) - Browse and find system icons
 - [Swatches](https://github.com/keyilan/swatches) - Colour variation tool [:white_check_mark:](https://appcenter.elementary.io/com.github.keyilan.swatches)
 
 ### Email
