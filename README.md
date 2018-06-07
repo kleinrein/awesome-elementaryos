@@ -67,8 +67,8 @@
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 - [Sequeler](https://github.com/Alecaddd/sequeler) - Friendly SQL Client [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 - [Snaptastic](https://github.com/bartzaalberg/snaptastic) - A manager for snaps [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
-- [ValaCompiler](https://github.com/basjam/ValaCompiler/) - A simple GUI for valac [:white_check_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential [:white_check_mark:](https://appcenter.elementary.io/com.github.aleksandar-stefanovic.urmsimulator.desktop)
+- [ValaCompiler](https://github.com/basjam/ValaCompiler/) - A simple GUI for valac [:white_check_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 - [Web Watcher](https://github.com/kjlaw89/webwatcher) - Know when your websites are misbehaving [:white_check_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
 
 ### Design
@@ -97,12 +97,12 @@
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
-- [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
 - [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.palaura.desktop)
 - [Planner](https://github.com/alainm23/planner) - The most intuitive project and task management tool [:white_check_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 - [Pushy](https://github.com/harisvsulaiman/Pushy) - Pushbullet client [:white_check_mark:](https://appcenter.elementary.io/com.github.harisvsulaiman.pushy.desktop)
-- [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
+- [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
+- [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
 - [Writer](https://launchpad.net/writer) - An elementary word processor
 
 ### Others
@@ -123,11 +123,11 @@
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 - [Elements](https://github.com/eudaldgr/elements) - All the elements of the universe! [:white_check_mark:](https://appcenter.elementary.io/com.github.eudaldgr.elements.desktop)
+- [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle [:white_check_mark:](https://appcenter.elementary.io/com.github.brandonlujan.exchange.desktop)
 - [Lottery](https://github.com/bartzaalberg/lottery) - Who will be the winner? [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.lottery.desktop)
 - [Meteo](https://github.com/bitseater/weather) - Know the forecast of the next hours and days with data and maps [:white_check_mark:](https://appcenter.elementary.io/com.github.bitseater.weather.desktop)
 - [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.nasc.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
-- [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle [:white_check_mark:](https://appcenter.elementary.io/com.github.brandonlujan.exchange.desktop)
 - [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
 - [Translator](https://github.com/RapidFingers/Translator) - Translator for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.rapidfingers.translator.desktop)
 - [Web Watcher](https://github.com/kjlaw89/webwatcher) - Know when your websites are misbehaving! [:white_check_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
