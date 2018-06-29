@@ -96,7 +96,7 @@
 - [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme [:white_check_mark:](https://appcenter.elementary.io/com.github.sgpthomas.hourglass.desktop)
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 - [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.palaura.desktop)
 - [Planner](https://github.com/alainm23/planner) - The most intuitive project and task management tool [:white_check_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 - [Pushy](https://github.com/harisvsulaiman/Pushy) - Pushbullet client [:white_check_mark:](https://appcenter.elementary.io/com.github.harisvsulaiman.pushy.desktop)
@@ -135,7 +135,7 @@
 ### Theming
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
 - [elementary X](https://github.com/surajmandalcell/elementary-x) - Original elementary theme with some tweaks and OS X window controls
-- [Uratau Icons](https://github.com/btd1337/urutau-icons) - A package of icons that transforms the third-party icons with the elementary appearance
+- [Uratau Icons](https://github.com/btd1337/urutau-icons) - The most complete package of icons for third-party applications with elementary OS design
 
 ## Aplication Development
 ### Official
@@ -170,6 +170,7 @@
 - [elementary OS on slack](https://elementarycommunity.herokuapp.com/) - Slack community
 
 ## Configuration guides
+- [elementary-script](https://github.com/btd1337/elementary-script) - With this script, you can easily install your favorite third-party applications after installing eOS
 - [elementary-os-first-steps](https://github.com/tonietto/Elementary-OS-First-Steps) - First steps for configuring a fresh installed eOS 
 - [Ultimate-elementary-os](https://github.com/erikdubois/Ultimate-Elementary-Os) - Easy installation of software after clean install 
 
