@@ -16,12 +16,14 @@
 	- [Design](#design)
 	- [Email Utilities](#email-utilities)
 	- [Graphics](#graphics)
+    - [Indicators](#indicators)
 	- [Productivity](#productivity)
 	- [Others](#others)
 	- [Social](#social)
 	- [Sharing Files](#sharing-files)
 	- [Utilities](#utilities)
 	- [Theming](#theming)
+- [Wingpanel Indicators](#wingpanel-indicators)
 - [Application Development](#application-development)
 	- [Official](#official)
 	- [Third party](#third-party)
@@ -136,6 +138,10 @@
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
 - [elementary X](https://github.com/surajmandalcell/elementary-x) - Original elementary theme with some tweaks and OS X window controls
 - [Uratau Icons](https://github.com/btd1337/urutau-icons) - The most complete package of icons for third-party applications with elementary OS design
+
+## Wingpanel Indicators
+- [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) - System monitor indicator for Wingpanel 
+- [Weather](https://github.com/kunalkushwaha/wingpanel-indicator-weather) - Weather app indicator for elementary OS 
 
 ## Aplication Development
 ### Official
