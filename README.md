@@ -39,7 +39,7 @@
 
 ### Audio
 - [Cozy](https://github.com/geigi/cozy) - A modern audio book player [:white_check_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
--[ellyrics](https://github.com/mkinitcpio/ellyrics) - Song lyrics search application
+- [ellyrics](https://github.com/mkinitcpio/ellyrics) - Song lyrics search application
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
 - [Metronome](https://launchpad.net/metronome) - A simple click [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
 - [Melody](http://anufrij.org/melody/) - A music player for listening local music files, online radios and Audio CD's [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmymusic.desktop)
@@ -110,7 +110,7 @@
 - [Planner](https://github.com/alainm23/planner) - The most intuitive project and task management tool [:white_check_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 - [Pushy](https://github.com/harisvsulaiman/Pushy) - Pushbullet client [:white_check_mark:](https://appcenter.elementary.io/com.github.harisvsulaiman.pushy.desktop)
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
--[Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) - A spreadsheet app for elementary OS 
+- [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) - A spreadsheet app for elementary OS 
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
 - [Writer](https://launchpad.net/writer) - An elementary word processor
@@ -142,7 +142,7 @@
 - [Find File Conflict](https://github.com/artemanufrij/findfileconflicts) - Helps to find file names which could have conflicts on Windows [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.findfileconflicts)
 - [Hash It](https://github.com/artemanufrij/hashit) - A simple app for checking usual checksums [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.hashit)
 - [Image Burner](https://github.com/artemanufrij/imageburner) - A simple imageburner inspired by Etcher's UI [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.imageburner)
--[La Nova Reta Vortaro](https://github.com/nova-reta-vortaro/nrv-gtk) - Modern esperanto dictionnary
+- [La Nova Reta Vortaro](https://github.com/nova-reta-vortaro/nrv-gtk) - Modern esperanto dictionnary
 - [Lights-Up](https://github.com/Philip-Scott/Lights-Up) - Control Philips Hue lights from your elementary OS desktop
 - [Lottery](https://github.com/bartzaalberg/lottery) - Who will be the winner? [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.lottery.desktop)
 - [Memories](https://github.com/artemanufrij/showmypictures) - An image viewer for managing local image files [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
