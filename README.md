@@ -39,6 +39,7 @@
 
 ### Audio
 - [Cozy](https://github.com/geigi/cozy) - A modern audio book player [:white_check_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
+-[ellyrics](https://github.com/mkinitcpio/ellyrics) - Song lyrics search application
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
 - [Metronome](https://launchpad.net/metronome) - A simple click [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
 - [Melody](http://anufrij.org/melody/) - A music player for listening local music files, online radios and Audio CD's [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmymusic.desktop)
@@ -87,6 +88,7 @@
 - [elementary Thunderbird](https://github.com/alxlit/elementary-thunderbird) - Thunderbird for elementary OS
 
 ### Games
+- [Brutus](https://github.com/paul-arg/brutus-game) - This is a City-Building (Caesar3-like) game
 - [Elememory](https://github.com/Heiko-M/elememory) - A simple memory game for elementary OS 
 - [Gnonograms](https://github.com/jeremypw/gnonograms) - Create and solve gnonogram puzzles [:white_check_mark:](https://appcenter.elementary.io/com.github.jeremypw.gnonograms.desktop)
 - [Sudoku](https://github.com/parnold-x/sudoku) - The number that is alone [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.sudoku.desktop)
@@ -108,6 +110,7 @@
 - [Planner](https://github.com/alainm23/planner) - The most intuitive project and task management tool [:white_check_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 - [Pushy](https://github.com/harisvsulaiman/Pushy) - Pushbullet client [:white_check_mark:](https://appcenter.elementary.io/com.github.harisvsulaiman.pushy.desktop)
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
+-[Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) - A spreadsheet app for elementary OS 
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
 - [Writer](https://launchpad.net/writer) - An elementary word processor
@@ -115,6 +118,7 @@
 ### Others
 - [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 - [Cinema](https://github.com/artemanufrij/playmyvideos) - A video player for watching local video files [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
+- [Configurator](https://github.com/cassidyjames/configurator) - Stylish dconf editor
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
 - [Hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop
 - [Repositories Manager](https://github.com/bartzaalberg/repositories-manager) - Manage your repositories 
@@ -138,6 +142,7 @@
 - [Find File Conflict](https://github.com/artemanufrij/findfileconflicts) - Helps to find file names which could have conflicts on Windows [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.findfileconflicts)
 - [Hash It](https://github.com/artemanufrij/hashit) - A simple app for checking usual checksums [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.hashit)
 - [Image Burner](https://github.com/artemanufrij/imageburner) - A simple imageburner inspired by Etcher's UI [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.imageburner)
+-[La Nova Reta Vortaro](https://github.com/nova-reta-vortaro/nrv-gtk) - Modern esperanto dictionnary
 - [Lights-Up](https://github.com/Philip-Scott/Lights-Up) - Control Philips Hue lights from your elementary OS desktop
 - [Lottery](https://github.com/bartzaalberg/lottery) - Who will be the winner? [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.lottery.desktop)
 - [Memories](https://github.com/artemanufrij/showmypictures) - An image viewer for managing local image files [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
