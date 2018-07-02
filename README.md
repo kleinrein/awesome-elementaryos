@@ -67,6 +67,7 @@
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [GraphUI](http://anufrij.org/) - Graph Visualization [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
+- [quickDocs](https://github.com/mdh34/quickDocs) - quickly read developer documentation [:white_check_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
 - [Sequeler](https://github.com/Alecaddd/sequeler) - Friendly SQL Client [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 - [Snaptastic](https://github.com/bartzaalberg/snaptastic) - A manager for snaps [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential [:white_check_mark:](https://appcenter.elementary.io/com.github.aleksandar-stefanovic.urmsimulator.desktop)
@@ -75,7 +76,10 @@
 
 ### Design
 - [Color Picker](https://github.com/RonnyDo/ColorPicker) - The most intiutive Color Picker to speed up your workflow [:white_check_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
+- [Dippi](https://github.com/cassidyjames/dippi) - Calculate display info like DPI and aspect ratio [:white_check_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
+- [Harvey](https://github.com/danrabbit/harvey) - A color contrast checker [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
 - [Lookbook](https://github.com/danrabbit/lookbook) - Browse and find system icons
+- [Palette](https://github.com/cassidyjames/palette) - Color palette app for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cassidyjames.palette)
 - [Swatches](https://github.com/keyilan/swatches) - Colour variation tool [:white_check_mark:](https://appcenter.elementary.io/com.github.keyilan.swatches)
 
 ### Email
@@ -110,6 +114,7 @@
 ### Others
 - [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
+- [Hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop
 - [Torrential](https://github.com/davidmhewitt/torrential) - Download torrents in style [:white_check_mark:](https://appcenter.elementary.io/com.github.davidmhewitt.torrential.desktop)
 - [Wallpaperize](https://github.com/Philip-Scott/wallpaperize) - Beautify your oddly-sized wallpapers [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.webpin.desktop)
 - [Webby](https://launchpad.net/webby-browser) - Web app browser
@@ -122,13 +127,16 @@
 
 ### Utilities
 - [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.coin.desktop)
-- [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
+- [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Elements](https://github.com/eudaldgr/elements) - All the elements of the universe! [:white_check_mark:](https://appcenter.elementary.io/com.github.eudaldgr.elements.desktop)
-- [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle [:white_check_mark:](https://appcenter.elementary.io/com.github.brandonlujan.exchange.desktop)
+- [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cjfloss.envelope)
+- [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle [:white_check_mark:](https://appcenter.elementary.io/com.github.brandonlujan.exchange.desktop) 
+- [Lights-Up](https://github.com/Philip-Scott/Lights-Up) - Control Philips Hue lights from your elementary OS desktop
 - [Lottery](https://github.com/bartzaalberg/lottery) - Who will be the winner? [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.lottery.desktop)
 - [Meteo](https://github.com/bitseater/weather) - Know the forecast of the next hours and days with data and maps [:white_check_mark:](https://appcenter.elementary.io/com.github.bitseater.weather.desktop)
 - [NaSC](http://parnold-x.github.io/nasc/) - Its an app where you do maths like a normal person [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.nasc.desktop)
+- [Neumann](https://github.com/ibraheem-moosa/neumann) - Show 4 digit random numbers on button click. 
 - [Nimbus](https://github.com/danrabbit/nimbus) - A minimal weather applet [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.nimbus)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
 - [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
@@ -141,6 +149,8 @@
 - [Uratau Icons](https://github.com/btd1337/urutau-icons) - The most complete package of icons for third-party applications with elementary OS design
 
 ## Wingpanel Indicators
+- [GamePing](https://github.com/alainm23/gameping-indicator) - Ping indicator for elementary
+- [Synapse](https://github.com/tom95/indicator-synapse) - Finds apps, files and directories via an intuitive fluent indicator
 - [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) - System monitor indicator for Wingpanel 
 - [Weather](https://github.com/kunalkushwaha/wingpanel-indicator-weather) - Weather app indicator for elementary OS 
 
