@@ -131,7 +131,8 @@
 - [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.needle-and-thread.vocal.desktop)
 
 ### Productivity
-- [Agenda](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager [:white_check_mark:](https://appcenter.elementary.io/com.github.dahenson.agenda.desktop)
+- [Agenda](https://github.com/dahenson/agenda) - A simple, fast, no-nonsense to-do (task) list for elementary OS.
+- [Agenda Tasks](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager [:white_check_mark:](https://appcenter.elementary.io/com.github.dahenson.agenda.desktop)
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cjfloss.envelope)
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
