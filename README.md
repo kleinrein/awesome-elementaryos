@@ -67,6 +67,7 @@
 - [Translator](https://github.com/RapidFingers/Translator) - Translator for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.rapidfingers.translator.desktop)
 - [Translit](https://github.com/artemanufrij/translit) - Translit is a method of encoding Cyrillic letters with Latin ones [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.translit)
 - [TrimDown](https://github.com/artemanufrij/trimdown) - A simple, feature rich, writing app for writing Novels, Short stories, Scripts and Articls
+- [Weather](https://github.com/camellan/weather) - A forecast application using OpenWeatherMap API [:white_check_mark:](https://appcenter.elementary.io/com.github.bitseater.weather)
 - [Writer](https://launchpad.net/writer) - An elementary word processor
 
 ### Chat
@@ -155,6 +156,7 @@
 - [Birdie](https://github.com/needle-and-thread/birdie) - Birdie is a beautiful & fast Twitter client designed for elementary OS
 
 ### System Tools
+- [Formatter](https://github.com/Djaler/Formatter) - A simple formatter tool [:white_check_mark:](https://appcenter.elementary.io/com.github.djaler.formatter)
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources [:white_check_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
 - [Timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux
