@@ -26,6 +26,7 @@
 	- [Theming](#theming)
 	- [Others](#others)
 - [Wingpanel Indicators](#wingpanel-indicators)
+- [Switchboard Plugs](#switchboard-plugs)
 - [Application Development](#application-development)
 	- [Official](#official)
 	- [Third party](#third-party)
@@ -59,6 +60,7 @@
 - [Meteo](https://github.com/bitseater/weather) - Know the forecast of the next hours and days with data and maps [:white_check_mark:](https://appcenter.elementary.io/com.github.bitseater.weather.desktop)
 - [Neumann](https://github.com/ibraheem-moosa/neumann) - Show 4 digit random numbers on button click. 
 - [Nimbus](https://github.com/danrabbit/nimbus) - A minimal weather applet [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.nimbus)
+- [Nutrition](https://github.com/AnderRasoVazquez/nutrition) - USDA Food Composition Database searcher
 - [RegEx Tester](https://github.com/artemanufrij/regextester) - A simple regex tester [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
 - [Screencast](https://github.com/artemanufrij/screencast) - A simple screencast recorder [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.screencast)
 - [Shopper](https://github.com/eosdevs/Shopper) - Track the price of your favourite products with this app
@@ -80,12 +82,15 @@
 
 ### Development
 - [Alias](https://github.com/bartzaalberg/alias) - Simplify your commands [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.alias.desktop)
+- [Develop](https://github.com/alcadica/develop) - A simple tool to help Elementary OS developers to develop their own apps and widgets [:white_check_mark:](https://appcenter.elementary.io/com.github.alcadica.develop)
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [GraphUI](http://anufrij.org/) - Graph Visualization [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 - [quickDocs](https://github.com/mdh34/quickDocs) - quickly read developer documentation [:white_check_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
 - [Sequeler](https://github.com/Alecaddd/sequeler) - Friendly SQL Client [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 - [Snaptastic](https://github.com/bartzaalberg/snaptastic) - A manager for snaps [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
+- [Vanat](https://github.com/vanat/vanat) - Dependency Manager for Vala
+- [Vala Lint](https://github.com/elementary/vala-lint) - Check code-style of Vala code files 
 - [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential [:white_check_mark:](https://appcenter.elementary.io/com.github.aleksandar-stefanovic.urmsimulator.desktop)
 - [ValaCompiler](https://github.com/basjam/ValaCompiler/) - A simple GUI for valac [:white_check_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 - [Web Watcher](https://github.com/kjlaw89/webwatcher) - Know when your websites are misbehaving [:white_check_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
@@ -125,6 +130,7 @@
 - [ellyrics](https://github.com/mkinitcpio/ellyrics) - Song lyrics search application
 - [eRadio](https://github.com/DreamDevel/eRadio) - A minimalist and powerful radio player for elementary OS
 - [Gradio](https://github.com/haecker-felix/Gradio) - A app for finding and listening to internet radio stations
+- [Karim](https://github.com/robertsanseries/karim) - Graphical interface for command-line tool youtube-dl
 - [Metronome](https://launchpad.net/metronome) - A simple click [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
 - [Melody](http://anufrij.org/melody/) - A music player for listening local music files, online radios and Audio CD's [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmymusic.desktop)
 - [Tranqil](https://github.com/nick92/tranqil) - Relax to soothing sounds of nature [:white_check_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
@@ -133,6 +139,7 @@
 ### Productivity
 - [Agenda](https://github.com/dahenson/agenda) - A simple, fast, no-nonsense to-do (task) list for elementary OS.
 - [Agenda Tasks](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager [:white_check_mark:](https://appcenter.elementary.io/com.github.dahenson.agenda.desktop)
+- [Coffee](https://github.com/nick92/coffee) - Keep up-to-date with current news and weather with Coffee
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cjfloss.envelope)
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
@@ -157,9 +164,11 @@
 - [Birdie](https://github.com/needle-and-thread/birdie) - Birdie is a beautiful & fast Twitter client designed for elementary OS
 
 ### System Tools
+- [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) - Manager for your ssh configs [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
 - [Formatter](https://github.com/Djaler/Formatter) - A simple formatter tool [:white_check_mark:](https://appcenter.elementary.io/com.github.djaler.formatter)
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources [:white_check_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
+- [Repo](https://github.com/chances/repo) - Manage your system's Personal Package Archives (PPA) repository sources [:white_check_mark:](https://appcenter.elementary.io/com.github.chances.repo)
 - [Timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux
 - [Wammer](https://github.com/RonnyDo/Wammer) - Jamming your WiFi network [:white_check_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 
@@ -183,6 +192,9 @@
 - [Synapse](https://github.com/tom95/indicator-synapse) - Finds apps, files and directories via an intuitive fluent indicator
 - [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) - System monitor indicator for Wingpanel 
 - [Weather](https://github.com/kunalkushwaha/wingpanel-indicator-weather) - Weather app indicator for elementary OS 
+
+## Switchboard Plugs
+- [Bing Wallpaper Plug](https://github.com/FranRodriguez/switchboard-plug-bing-wallpaper) - A plug to get wallpapers from bing
 
 ## Aplication Development
 ### Official
