@@ -96,6 +96,7 @@
 - [Web Watcher](https://github.com/kjlaw89/webwatcher) - Know when your websites are misbehaving [:white_check_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
 
 ### Design
+- [Akira](https://github.com/Alecaddd/Akira) - Native Linux App for UI and UX Design built in Vala and Gtk [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
 - [Color Picker](https://github.com/RonnyDo/ColorPicker) - The most intiutive Color Picker to speed up your workflow [:white_check_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
 - [Dippi](https://github.com/cassidyjames/dippi) - Calculate display info like DPI and aspect ratio [:white_check_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 - [Harvey](https://github.com/danrabbit/harvey) - A color contrast checker [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
