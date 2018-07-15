@@ -41,10 +41,10 @@
 ## Applications
 
 ### Accessories
+- [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 - [Cipher](https://github.com/arshubham/cipher) - Encode and decode text [:white_check_mark:](https://appcenter.elementary.io/com.github.arshubham.cipher.desktop)
 - [Clipped](https://github.com/davidmhewitt/clipped) - Manage your clipboard with ease
 - [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.coin.desktop)
-- [Desktop Folder](https://github.com/spheras/desktopfolder) - Bring your desktop back to life [:white_check_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle [:white_check_mark:](https://appcenter.elementary.io/com.github.brandonlujan.exchange.desktop) 
@@ -56,15 +56,12 @@
 - [Lights-Up](https://github.com/Philip-Scott/Lights-Up) - Control Philips Hue lights from your elementary OS desktop
 - [Lottery](https://github.com/bartzaalberg/lottery) - Who will be the winner? [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.lottery.desktop)
 - [MarkMyWords](https://github.com/voldyman/MarkMyWords) - A minimal markdown editor
-- [Memories](https://github.com/artemanufrij/showmypictures) - An image viewer for managing local image files [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
 - [Meteo](https://github.com/bitseater/weather) - Know the forecast of the next hours and days with data and maps [:white_check_mark:](https://appcenter.elementary.io/com.github.bitseater.weather.desktop)
 - [Neumann](https://github.com/ibraheem-moosa/neumann) - Show 4 digit random numbers on button click. 
 - [Nimbus](https://github.com/danrabbit/nimbus) - A minimal weather applet [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.nimbus)
 - [Nutrition](https://github.com/AnderRasoVazquez/nutrition) - USDA Food Composition Database searcher
-- [RegEx Tester](https://github.com/artemanufrij/regextester) - A simple regex tester [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
 - [Screencast](https://github.com/artemanufrij/screencast) - A simple screencast recorder [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.screencast)
 - [Shopper](https://github.com/eosdevs/Shopper) - Track the price of your favourite products with this app
-- [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
 - [Timer](https://github.com/parnold-x/timer) - The ultimate tea timer [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.timer)
 - [Translator](https://github.com/RapidFingers/Translator) - Translator for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.rapidfingers.translator.desktop)
 - [Translit](https://github.com/artemanufrij/translit) - Translit is a method of encoding Cyrillic letters with Latin ones [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.translit)
@@ -87,6 +84,7 @@
 - [GraphUI](http://anufrij.org/) - Graph Visualization [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 - [quickDocs](https://github.com/mdh34/quickDocs) - quickly read developer documentation [:white_check_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
+- [RegEx Tester](https://github.com/artemanufrij/regextester) - A simple regex tester [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
 - [Sequeler](https://github.com/Alecaddd/sequeler) - Friendly SQL Client [:white_check_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 - [Snaptastic](https://github.com/bartzaalberg/snaptastic) - A manager for snaps [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
 - [Vanat](https://github.com/vanat/vanat) - Dependency Manager for Vala
@@ -118,11 +116,15 @@
 - [Ciano](https://robertsanseries.github.io/ciano/) - A multimedia file converter [:white_check_mark:](https://appcenter.elementary.io/com.github.robertsanseries.ciano.desktop)
 - [Foto](https://launchpad.net/foto) - Foto is a very simple image viewer and album manager written in Vala using Gtk3, Clutter, Cairo and Granite
 - [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) - A simple image optimizer for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
+- [Memories](https://github.com/artemanufrij/showmypictures) - An image viewer for managing local image files [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
 
 ### Internet
 - [Firefox elementary Theme](https://github.com/harveycabaguio/firefox-elementary-theme) - A theme for Firefox with elementary OS appearence
 - [Odysseus](https://github.com/alcinnz/Odysseus) - A simple and performant browser yet powerful elementary OS-style window onto the open decentralized web [:white_check_mark:](https://appcenter.elementary.io/com.github.alcinnz.odysseus.desktop)
 - [Pushy](https://github.com/harisvsulaiman/Pushy) - Pushbullet client [:white_check_mark:](https://appcenter.elementary.io/com.github.harisvsulaiman.pushy.desktop)
+- [Taxi](https://launchpad.net/taxi) - A simple to use FTP client, designed for elementary OS
+- [Torrential](https://github.com/davidmhewitt/torrential) - Download torrents in style [:white_check_mark:](https://appcenter.elementary.io/com.github.davidmhewitt.torrential.desktop)
+- [Webby](https://launchpad.net/webby-browser) - Web app browser
 - [Webpin](https://github.com/artemanufrij/webpin) - A simple app to pin websites on the desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.webpin.desktop)
 
 ### Multimedia
@@ -142,8 +144,10 @@
 - [Agenda Tasks](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager [:white_check_mark:](https://appcenter.elementary.io/com.github.dahenson.agenda.desktop)
 - [Coffee](https://github.com/nick92/coffee) - Keep up-to-date with current news and weather with Coffee
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cjfloss.envelope)
+- [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
+- [Hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 - [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.palaura.desktop)
@@ -166,22 +170,18 @@
 
 ### System Tools
 - [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) - Manager for your ssh configs [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
+- [Configurator](https://github.com/cassidyjames/configurator) - Stylish dconf editor
+- [Desktop Folder](https://github.com/spheras/desktopfolder) - Bring your desktop back to life [:white_check_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 - [Formatter](https://github.com/Djaler/Formatter) - A simple formatter tool [:white_check_mark:](https://appcenter.elementary.io/com.github.djaler.formatter)
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources [:white_check_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
 - [Repo](https://github.com/chances/repo) - Manage your system's Personal Package Archives (PPA) repository sources [:white_check_mark:](https://appcenter.elementary.io/com.github.chances.repo)
+- [Repositories Manager](https://github.com/bartzaalberg/repositories-manager) - Manage your repositories 
 - [Timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux
 - [Wammer](https://github.com/RonnyDo/Wammer) - Jamming your WiFi network [:white_check_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 
 ### Others
-- [Bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
-- [Configurator](https://github.com/cassidyjames/configurator) - Stylish dconf editor
-- [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
-- [Hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop
-- [Repositories Manager](https://github.com/bartzaalberg/repositories-manager) - Manage your repositories 
-- [Torrential](https://github.com/davidmhewitt/torrential) - Download torrents in style [:white_check_mark:](https://appcenter.elementary.io/com.github.davidmhewitt.torrential.desktop)
 - [Wallpaperize](https://github.com/Philip-Scott/wallpaperize) - Beautify your oddly-sized wallpapers [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.webpin.desktop)
-- [Webby](https://launchpad.net/webby-browser) - Web app browser
 
 ### Theming
 - [elementaryPlus](https://github.com/mank319/elementaryPlus) - elementaryPlus is a community maintained addition to elementary OS's default icon theme
