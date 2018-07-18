@@ -60,6 +60,7 @@
 - [Neumann](https://github.com/ibraheem-moosa/neumann) - Show 4 digit random numbers on button click. 
 - [Nimbus](https://github.com/danrabbit/nimbus) - A minimal weather applet [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.nimbus)
 - [Nutrition](https://github.com/AnderRasoVazquez/nutrition) - USDA Food Composition Database searcher
+- [Socratest](https://github.com/Peter-van-der-Velde/socratest) - Your new personal digital teacher!
 - [Screencast](https://github.com/artemanufrij/screencast) - A simple screencast recorder [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.screencast)
 - [Shopper](https://github.com/eosdevs/Shopper) - Track the price of your favourite products with this app
 - [Timer](https://github.com/parnold-x/timer) - The ultimate tea timer [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.timer)
@@ -80,6 +81,7 @@
 ### Development
 - [Alias](https://github.com/bartzaalberg/alias) - Simplify your commands [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.alias.desktop)
 - [Develop](https://github.com/alcadica/develop) - A simple tool to help Elementary OS developers to develop their own apps and widgets [:white_check_mark:](https://appcenter.elementary.io/com.github.alcadica.develop)
+- [elementary-icons-template](https://github.com/micahilbery/elementary-icon-templates) - A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [GraphUI](http://anufrij.org/) - Graph Visualization [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
@@ -108,7 +110,8 @@
 
 ### Games
 - [Brutus](https://github.com/paul-arg/brutus-game) - This is a City-Building (Caesar3-like) game
-- [Elememory](https://github.com/Heiko-M/elememory) - A simple memory game for elementary OS 
+- [Elememory](https://github.com/Heiko-M/elememory) - A simple memory game for elementary OS
+- [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala
 - [Gnonograms](https://github.com/jeremypw/gnonograms) - Create and solve gnonogram puzzles [:white_check_mark:](https://appcenter.elementary.io/com.github.jeremypw.gnonograms.desktop)
 - [Sudoku](https://github.com/parnold-x/sudoku) - The number that is alone [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.sudoku.desktop)
 
@@ -148,11 +151,13 @@
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
 - [Hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
+- [OfficeWorks-Author](https://github.com/aggalex/OfficeWorks-Author) - The modern text editor
 - [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.palaura.desktop)
 - [Planner](https://github.com/alainm23/planner) - The most intuitive project and task management tool [:white_check_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 - [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) - A spreadsheet app for elementary OS 
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
@@ -173,6 +178,7 @@
 - [Configurator](https://github.com/cassidyjames/configurator) - Stylish dconf editor
 - [Desktop Folder](https://github.com/spheras/desktopfolder) - Bring your desktop back to life [:white_check_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 - [Formatter](https://github.com/Djaler/Formatter) - A simple formatter tool [:white_check_mark:](https://appcenter.elementary.io/com.github.djaler.formatter)
+- [Hottoe](https://github.com/gandalfn/hottoe) - Hottoe is an application which can control sound devices.
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources [:white_check_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
 - [Repo](https://github.com/chances/repo) - Manage your system's Personal Package Archives (PPA) repository sources [:white_check_mark:](https://appcenter.elementary.io/com.github.chances.repo)
@@ -190,6 +196,7 @@
 
 ## Wingpanel Indicators
 - [GamePing](https://github.com/alainm23/gameping-indicator) - Ping indicator for elementary
+- [Periods](https://github.com/phalbert/wingpanel-indicator-periods) - Life indicator for elementary
 - [Synapse](https://github.com/tom95/indicator-synapse) - Finds apps, files and directories via an intuitive fluent indicator
 - [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) - System monitor indicator for Wingpanel 
 - [Weather](https://github.com/kunalkushwaha/wingpanel-indicator-weather) - Weather app indicator for elementary OS 
