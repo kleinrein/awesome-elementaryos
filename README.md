@@ -178,7 +178,6 @@
 - [Configurator](https://github.com/cassidyjames/configurator) - Stylish dconf editor
 - [Desktop Folder](https://github.com/spheras/desktopfolder) - Bring your desktop back to life [:white_check_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 - [Formatter](https://github.com/Djaler/Formatter) - A simple formatter tool [:white_check_mark:](https://appcenter.elementary.io/com.github.djaler.formatter)
-- [Hottoe](https://github.com/gandalfn/hottoe) - Hottoe is an application which can control sound devices.
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources [:white_check_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
 - [Repo](https://github.com/chances/repo) - Manage your system's Personal Package Archives (PPA) repository sources [:white_check_mark:](https://appcenter.elementary.io/com.github.chances.repo)
@@ -196,6 +195,7 @@
 
 ## Wingpanel Indicators
 - [GamePing](https://github.com/alainm23/gameping-indicator) - Ping indicator for elementary
+- [Hottoe](https://github.com/gandalfn/hottoe) - Hottoe is an application which can control sound devices.
 - [Periods](https://github.com/phalbert/wingpanel-indicator-periods) - Life indicator for elementary
 - [Synapse](https://github.com/tom95/indicator-synapse) - Finds apps, files and directories via an intuitive fluent indicator
 - [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) - System monitor indicator for Wingpanel 
