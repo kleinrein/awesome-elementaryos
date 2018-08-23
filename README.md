@@ -68,7 +68,7 @@
 - [Translit](https://github.com/artemanufrij/translit) - Translit is a method of encoding Cyrillic letters with Latin ones [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.translit)
 - [TrimDown](https://github.com/artemanufrij/trimdown) - A simple, feature rich, writing app for writing Novels, Short stories, Scripts and Articls
 - [Weather](https://github.com/camellan/weather) - A forecast application using OpenWeatherMap API [:white_check_mark:](https://appcenter.elementary.io/com.github.bitseater.weather)
-- [Writer](https://launchpad.net/writer) - An elementary word processor
+- [Writer](https://github.com/ryonakano/writer) - Word processor designed for elementary OS 
 
 ### Chat
 - [Relay](https://github.com/agronick/Relay) - An IRC client designed for elementary OS
