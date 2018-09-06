@@ -113,6 +113,7 @@
 - [Elememory](https://github.com/Heiko-M/elememory) - A simple memory game for elementary OS
 - [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala
 - [Gnonograms](https://github.com/jeremypw/gnonograms) - Create and solve gnonogram puzzles [:white_check_mark:](https://appcenter.elementary.io/com.github.jeremypw.gnonograms.desktop)
+- [Post Apoc RPG Tools](https://github.com/FriendOfEntropy/postapocrpgtools) - Post Apocalyptic RPG Tools App For elementary OS 
 - [Sudoku](https://github.com/parnold-x/sudoku) - The number that is alone [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.sudoku.desktop)
 
 ### Graphics
