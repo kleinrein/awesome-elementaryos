@@ -113,6 +113,7 @@
 - [Elememory](https://github.com/Heiko-M/elememory) - A simple memory game for elementary OS
 - [GameHub](https://github.com/tkashkin/GameHub) - Games manager/downloader/library written in Vala
 - [Gnonograms](https://github.com/jeremypw/gnonograms) - Create and solve gnonogram puzzles [:white_check_mark:](https://appcenter.elementary.io/com.github.jeremypw.gnonograms.desktop)
+- [Mupen GUI](https://github.com/EFDos/mupen-gui) - Mupen64plus frontend designed based on Elementary OS guidelines.
 - [Post Apoc RPG Tools](https://github.com/FriendOfEntropy/postapocrpgtools) - Post Apocalyptic RPG Tools App For elementary OS 
 - [Sudoku](https://github.com/parnold-x/sudoku) - The number that is alone [:white_check_mark:](https://appcenter.elementary.io/com.github.parnold-x.sudoku.desktop)
 
@@ -161,6 +162,7 @@
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 - [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) - A spreadsheet app for elementary OS 
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app for elementary OS
+- [Timetable](https://github.com/lainsce/timetable) - Plot out your own timetable for the week and organize it
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app designed for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
 - [Yishu](https://github.com/lainsce/yishu) - A bespoke and simple Todo.txt client [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.yishu)
 
@@ -178,6 +180,8 @@
 - [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) - Manager for your ssh configs [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
 - [Configurator](https://github.com/cassidyjames/configurator) - Stylish dconf editor
 - [Desktop Folder](https://github.com/spheras/desktopfolder) - Bring your desktop back to life [:white_check_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
+- [Dimmer Switch](https://github.com/panosx2/brightness/) - 
+Brightness Adjustment for Linux [:white_check_mark:](https://appcenter.elementary.io/com.github.panosx2.brightness/) 
 - [Formatter](https://github.com/Djaler/Formatter) - A simple formatter tool [:white_check_mark:](https://appcenter.elementary.io/com.github.djaler.formatter)
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources [:white_check_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 - [Nutty](https://launchpad.net/nutty) - A simple application to provide essential information on network related aspects [:white_check_mark:](https://appcenter.elementary.io/com.github.babluboy.nutty.desktop)
