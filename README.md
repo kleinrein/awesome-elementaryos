@@ -7,35 +7,38 @@
 :white_check_mark: means that it can be found in **AppCenter**. _You can click on the icon to open it in AppCenter_
 
 ## Table of Contents
-- [Applications](#applications)
-	- [Accessories](#accessories)
-	- [Chat Clients](#chat-clients)
-	- [Customization](#customization)
-	- [Development](#development)
-	- [Design](#design)
-	- [Email Utilities](#email-utilities)
-	- [Games](#games)
-	- [Graphics](#graphics)
-	- [Internet](#internet)
-	- [Multimedia](#multimedia)
-	- [Productivity](#productivity)
-	- [Science](#science)
-	- [Social](#social)
-	- [Sharing Files](#sharing-files)
-	- [System-Tools](#systemtools)
-	- [Theming](#theming)
-	- [Others](#others)
-- [Wingpanel Indicators](#wingpanel-indicators)
-- [Switchboard Plugs](#switchboard-plugs)
-- [Application Development](#application-development)
-	- [Official](#official)
-	- [Third party](#third-party)
-	- [Vala](#vala)
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Configuration guides](#configuration-guides)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome elementary OS ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-elementary-os-awesomehttpsgithubcomsindresorhusawesome)
+		- [Explanation](#explanation)
+	- [Table of Contents](#table-of-contents)
+	- [Applications](#applications)
+		- [Accessories](#accessories)
+		- [Chat](#chat)
+		- [Customization](#customization)
+		- [Development](#development)
+		- [Design](#design)
+		- [Email](#email)
+		- [Games](#games)
+		- [Graphics](#graphics)
+		- [Internet](#internet)
+		- [Multimedia](#multimedia)
+		- [Productivity](#productivity)
+		- [Science](#science)
+		- [Sharing](#sharing)
+		- [Social](#social)
+		- [System Tools](#system-tools)
+		- [Others](#others)
+		- [Theming](#theming)
+	- [Wingpanel Indicators](#wingpanel-indicators)
+	- [Switchboard Plugs](#switchboard-plugs)
+	- [Aplication Development](#aplication-development)
+		- [Official](#official)
+		- [Third party](#third-party)
+		- [Vala](#vala)
+	- [Official Resources](#official-resources)
+	- [Community](#community)
+	- [Configuration guides](#configuration-guides)
+	- [Contribute](#contribute)
+	- [License](#license)
 
 
 ## Applications
@@ -48,9 +51,7 @@
 - [Eddy](https://github.com/donadigo/eddy) - Simple debian package installer for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 - [Eidete](https://launchpad.net/eidete) - A simple screencasting app for the elementary project
 - [Exchange](https://github.com/brandonlujan/exchange) - Convert currencies with no hassle [:white_check_mark:](https://appcenter.elementary.io/com.github.brandonlujan.exchange.desktop) 
-- [Find File Conflict](https://github.com/artemanufrij/findfileconflicts) - Helps to find file names which could have conflicts on Windows [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.findfileconflicts)
 - [Hash It](https://github.com/artemanufrij/hashit) - A simple app for checking usual checksums [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.hashit)
-- [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme [:white_check_mark:](https://appcenter.elementary.io/com.github.sgpthomas.hourglass.desktop)
 - [Image Burner](https://github.com/artemanufrij/imageburner) - A simple imageburner inspired by Etcher's UI [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.imageburner)
 - [La Nova Reta Vortaro](https://github.com/nova-reta-vortaro/nrv-gtk) - Modern esperanto dictionnary
 - [Lights-Up](https://github.com/Philip-Scott/Lights-Up) - Control Philips Hue lights from your elementary OS desktop
@@ -84,6 +85,7 @@
 - [elementary-icons-template](https://github.com/micahilbery/elementary-icon-templates) - A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG
 - [elementary IDE](https://github.com/donadigo/elementary-ide) - An unofficial elementary OS (Vala) oriented IDE
 - [GraphUI](http://anufrij.org/) - Graph Visualization [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
+- [File Conflicts Finder](https://github.com/artemanufrij/findfileconflicts) - Helps to find file names which could have conflicts on Windows [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.findfileconflicts)
 - [PHP Tester](https://github.com/bartzaalberg/php-tester) - Test your PHP code easily [:white_check_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 - [quickDocs](https://github.com/mdh34/quickDocs) - quickly read developer documentation [:white_check_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
 - [RegEx Tester](https://github.com/artemanufrij/regextester) - A simple regex tester [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
@@ -102,6 +104,7 @@
 - [Harvey](https://github.com/danrabbit/harvey) - A color contrast checker [:white_check_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
 - [Lookbook](https://github.com/danrabbit/lookbook) - Browse and find system icons
 - [Palette](https://github.com/cassidyjames/palette) - Color palette app for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cassidyjames.palette)
+- [Principles](https://github.com/cassidyjames/principles) - Remember Dieter Rams' ten principles of good design [:white_check_mark:](https://appcenter.elementary.io/com.github.cassidyjames.principles.desktop)
 - [Swatches](https://github.com/keyilan/swatches) - Colour variation tool [:white_check_mark:](https://appcenter.elementary.io/com.github.keyilan.swatches)
 
 ### Email
@@ -120,8 +123,10 @@
 ### Graphics
 - [Ciano](https://robertsanseries.github.io/ciano/) - A multimedia file converter [:white_check_mark:](https://appcenter.elementary.io/com.github.robertsanseries.ciano.desktop)
 - [Foto](https://launchpad.net/foto) - Foto is a very simple image viewer and album manager written in Vala using Gtk3, Clutter, Cairo and Granite
+- [Iconoscope](https://github.com/santileortiz/Iconoscope) - Simple icon visualizer [:white_check_mark:](https://appcenter.elementary.io/com.github.santileortiz.iconoscope)
 - [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) - A simple image optimizer for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
 - [Memories](https://github.com/artemanufrij/showmypictures) - An image viewer for managing local image files [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
+- [Resizer](https://github.com/peteruithoven/resizer) - Quickly resize images from the context menu [:white_check_mark:](https://appcenter.elementary.io/com.github.peteruithoven.resizer)
 
 ### Internet
 - [Firefox elementary Theme](https://github.com/harveycabaguio/firefox-elementary-theme) - A theme for Firefox with elementary OS appearence
@@ -148,11 +153,14 @@
 - [Agenda](https://github.com/dahenson/agenda) - A simple, fast, no-nonsense to-do (task) list for elementary OS.
 - [Agenda Tasks](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager [:white_check_mark:](https://appcenter.elementary.io/com.github.dahenson.agenda.desktop)
 - [Coffee](https://github.com/nick92/coffee) - Keep up-to-date with current news and weather with Coffee
+- [Date Countdown](https://github.com/rickybas/date-countdown) - A date countdown applet [:white_check_mark:](https://appcenter.elementary.io/com.github.rickybas.date-countdown)
 - [Envelope](https://github.com/cjfloss/envelope) - Personal finance manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.cjfloss.envelope)
 - [FeedReader](https://github.com/jangernert/FeedReader) - Modern desktop application designed to complement existing web-based RSS accounts
 - [Footnote](https://launchpad.net/footnote) - A beautiful, fast, and simple note taking app in the style of elementary
 - [Go For It](https://github.com/mank319/Go-For-It) - A stylish to-do list with built-in productivity timer
 - [Hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop
+- [Hourglass](https://launchpad.net/hourglass) - A simple clock application that is designed to fit perfectly into elementary's design scheme [:white_check_mark:](https://appcenter.elementary.io/com.github.sgpthomas.hourglass.desktop)
+- [Luna](https://github.com/calo001/luna) - An amazing calendar widget [:white_check_mark:](https://appcenter.elementary.io/com.github.calo001.luna)
 - [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 - [Notes Up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager for elementary OS [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 - [OfficeWorks-Author](https://github.com/aggalex/OfficeWorks-Author) - The modern text editor
