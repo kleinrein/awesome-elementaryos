@@ -6,7 +6,7 @@
 
 **Explanation**:
 
-:white*check_mark: means that it can be found in **AppCenter**. \_You can click on the icon to open it in AppCenter*
+:white_check_mark: means that it can be found in **AppCenter**. _You can click on the icon to open it in AppCenter_
 
 ## Table of Contents
 
