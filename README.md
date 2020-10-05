@@ -6,7 +6,7 @@
 
 **Explanation**:
 
-:white_check_mark: means that it can be found in **AppCenter**. _You can click on the icon to open it in AppCenter_
+:white*check_mark: means that it can be found in **AppCenter**. \_You can click on the icon to open it in AppCenter*
 
 ## Table of Contents
 
@@ -182,12 +182,13 @@
 - [Palaura](https://github.com/lainsce/palaura/) - Find any word's definition with this handy dictionary [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.palaura.desktop)
 - [Planner](https://github.com/alainm23/planner) - The most intuitive project and task management tool [:white_check_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 - [Quilter](https://github.com/lainsce/quilter/) - Focus on your writing [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) -  Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Create simple and beautiful presentations on the Linux desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 - [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) - A spreadsheet app
 - [Stickies](https://github.com/aboudzakaria/stickies) - Neat sticky notes app
 - [Timetable](https://github.com/lainsce/timetable) - Plot out your own timetable for the week and organize it
 - [Tomato](https://launchpad.net/tomatoapp) - A simple pomodoro app [:white_check_mark:](https://appcenter.elementary.io/com.github.luizaugustomm.tomato.desktop)
 - [Yishu](https://github.com/lainsce/yishu) - A bespoke and simple Todo.txt client [:white_check_mark:](https://appcenter.elementary.io/com.github.lainsce.yishu)
+- [Workspaces](https://github.com/DevAlien/workspaces) - Workspaces lets you configure and quickly launch all you need to work on a project [:white_check_mark:](https://appcenter.elementary.io/com.github.devalien.workspaces)
 
 ### Science
 
@@ -199,7 +200,7 @@
 - [Dropbox for elementary OS](https://github.com/zant95/elementary-dropbox)
 
 ### Security
-  
+
 - [Locksmith](https://github.com/ChristopherNugent/Locksmith) - A simple password generator applet [:white_check_mark:](https://appcenter.elementary.io/com.github.christophernugent.locksmith/)
 - [Valawarden](https://github.com/LiljebergXYZ/valawarden) - Unofficial native Bitwarden client
 
