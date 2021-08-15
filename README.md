@@ -159,9 +159,11 @@
 - [Karim](https://github.com/robertsanseries/karim) - Graphical interface for command-line tool youtube-dl
 - [Metronome](https://launchpad.net/metronome) - A simple click [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
 - [Melody](http://anufrij.org/melody/) - A music player for listening local music files, online radios and Audio CD's [:white_check_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmymusic.desktop)
+- [Mixer](https://github.com/childishgiant/mixer) - A no-frills volume mixer, with simplicity and usability at its core. [:white_check_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 - [Reco](https://github.com/ryonakano/reco) - Audio recording app
 - [Tranqil](https://github.com/nick92/tranqil) - Relax to soothing sounds of nature [:white_check_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
 - [Vocal](http://vocalproject.net/) - Podcast Client for the Modern Desktop [:white_check_mark:](https://appcenter.elementary.io/com.github.needle-and-thread.vocal.desktop)
+
 
 ### Productivity
 
